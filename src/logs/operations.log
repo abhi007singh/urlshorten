@@ -1,0 +1,372 @@
+2024-12-29 23:08:45 [INFO]: Server Started
+2024-12-29 23:08:45 [INFO]: DB Online!
+2024-12-29 23:08:45 [INFO]: Cache Online!
+2024-12-29 23:08:54 [INFO]: DB Online!
+2024-12-29 23:08:54 [INFO]: Cache Online!
+2024-12-29 23:10:41 [INFO]: Server Started
+2024-12-29 23:10:41 [INFO]: DB Online!
+2024-12-29 23:10:41 [INFO]: Cache Online!
+2024-12-29 23:52:11 [INFO]: Server Started
+2024-12-29 23:52:11 [ERROR]: Redis Client Error:
+2024-12-29 23:52:11 [INFO]: DB Online!
+2024-12-30 00:03:18 [INFO]: Server Started
+2024-12-30 00:03:18 [ERROR]: Redis Client Error:
+2024-12-30 00:03:18 [INFO]: DB Online!
+2024-12-30 20:34:29 [INFO]: DB Online!
+2024-12-30 20:34:29 [INFO]: Cache Online!
+2024-12-30 20:47:52 [INFO]: DB Online!
+2024-12-30 20:47:52 [INFO]: Cache Online!
+2024-12-30 21:11:03 [INFO]: DB Online!
+2024-12-30 21:11:03 [INFO]: Cache Online!
+2024-12-30 21:17:25 [INFO]: DB Online!
+2024-12-30 21:17:25 [INFO]: Cache Online!
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "GET /analytics/topic/retention HTTP/1.1" 404 164 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "POST /api/shorten HTTP/1.1" 401 25 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "GET /analytics/topic/acquisition HTTP/1.1" 404 166 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "GET /analytics/overall HTTP/1.1" 404 156 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "GET /analytics/overall HTTP/1.1" 404 156 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "GET /analytics/a1osd HTTP/1.1" 404 154 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "GET /analytics/re34h HTTP/1.1" 404 154 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "GET /analytics/topic/retention HTTP/1.1" 404 164 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "POST /api/shorten HTTP/1.1" 401 25 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "GET /analytics/topic/acquisition HTTP/1.1" 404 166 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "Mozilla/5.0"
+::ffff:127.0.0.1 - - [30/Dec/2024:15:47:25 +0000] "GET /api/shorten/nonexistentalias HTTP/1.1" 500 51 "-" "Mozilla/5.0"
+2024-12-30 23:03:14 [INFO]: Cache Online!
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "POST /api/shorten HTTP/1.1" 401 25 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "POST /api/shorten HTTP/1.1" 401 25 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "Mozilla/5.0"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "GET /analytics/topic/retention HTTP/1.1" 404 164 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "GET /api/shorten/nonexistentalias HTTP/1.1" 500 51 "-" "Mozilla/5.0"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "GET /analytics/topic/acquisition HTTP/1.1" 404 166 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "GET /analytics/overall HTTP/1.1" 404 156 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "GET /analytics/overall HTTP/1.1" 404 156 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "GET /analytics/a1osd HTTP/1.1" 404 154 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "GET /analytics/re34h HTTP/1.1" 404 154 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "GET /analytics/topic/retention HTTP/1.1" 404 164 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:33:14 +0000] "GET /analytics/topic/acquisition HTTP/1.1" 404 166 "-" "-"
+2024-12-30 23:13:58 [INFO]: Cache Online!
+2024-12-30 23:17:15 [INFO]: Cache Online!
+::ffff:127.0.0.1 - - [30/Dec/2024:17:47:15 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:47:15 +0000] "POST /api/shorten HTTP/1.1" 201 92 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:47:15 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "Mozilla/5.0"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:47:15 +0000] "GET /api/shorten/nonexistentalias HTTP/1.1" 500 51 "-" "Mozilla/5.0"
+2024-12-30 23:23:18 [INFO]: Cache Online!
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:18 +0000] "GET /analytics/topic/retention HTTP/1.1" 404 164 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:18 +0000] "GET /analytics/topic/acquisition HTTP/1.1" 404 166 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:18 +0000] "GET /analytics/overall HTTP/1.1" 404 156 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:18 +0000] "GET /analytics/overall HTTP/1.1" 404 156 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:18 +0000] "GET /analytics/a1osd HTTP/1.1" 404 154 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:18 +0000] "GET /analytics/re34h HTTP/1.1" 404 154 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:18 +0000] "GET /analytics/topic/retention HTTP/1.1" 404 164 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:18 +0000] "GET /analytics/topic/acquisition HTTP/1.1" 404 166 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:20 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:20 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:53:20 +0000] "GET /api/shorten/nonexistentalias HTTP/1.1" 500 51 "-" "Mozilla/5.0"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:35 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:35 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:35 +0000] "GET /api/shorten/nonexistentalias HTTP/1.1" 500 51 "-" "Mozilla/5.0"
+2024-12-30 23:27:36 [INFO]: Cache Online!
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/topic/:topic GET
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:36 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 263 "-" "-"
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/topic/:topic GET
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:36 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/overall GET
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:36 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/overall GET
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:36 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/:alias GET
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:36 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 454 "-" "-"
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/:alias GET
+2024-12-30 23:27:36 [ERROR]: Record not found
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:36 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:36 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 25 "-" "-"
+2024-12-30 23:27:36 [ERROR]: No token provided
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+::ffff:127.0.0.1 - - [30/Dec/2024:17:57:36 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+2024-12-30 23:27:36 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:27:36 [ERROR]: Internal Server Error: Test Error
+2024-12-30 23:33:25 [INFO]: Cache Online!
+::ffff:127.0.0.1 - - [30/Dec/2024:18:03:25 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:03:25 +0000] "POST /api/shorten HTTP/1.1" 201 92 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:03:25 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:03:25 +0000] "GET /api/shorten/nonexistentalias HTTP/1.1" 500 51 "-" "-"
+2024-12-30 23:36:19 [INFO]: Cache Online!
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/topic/:topic GET
+::ffff:127.0.0.1 - - [30/Dec/2024:18:06:20 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 263 "-" "-"
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/topic/:topic GET
+::ffff:127.0.0.1 - - [30/Dec/2024:18:06:20 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/overall GET
+::ffff:127.0.0.1 - - [30/Dec/2024:18:06:20 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/overall GET
+::ffff:127.0.0.1 - - [30/Dec/2024:18:06:20 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/:alias GET
+2024-12-30 23:36:20 [ERROR]: Record not found
+::ffff:127.0.0.1 - - [30/Dec/2024:18:06:20 +0000] "GET /api/analytics/a1osd HTTP/1.1" 404 49 "-" "-"
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/:alias GET
+2024-12-30 23:36:20 [ERROR]: Record not found
+::ffff:127.0.0.1 - - [30/Dec/2024:18:06:20 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+::ffff:127.0.0.1 - - [30/Dec/2024:18:06:20 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 25 "-" "-"
+2024-12-30 23:36:20 [ERROR]: No token provided
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+::ffff:127.0.0.1 - - [30/Dec/2024:18:06:20 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+2024-12-30 23:36:20 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:36:20 [ERROR]: Internal Server Error: Test Error
+2024-12-30 23:39:03 [INFO]: Cache Online!
+::ffff:127.0.0.1 - - [30/Dec/2024:18:09:03 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:09:03 +0000] "POST /api/shorten HTTP/1.1" 201 92 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:09:03 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:09:03 +0000] "GET /api/shorten/nonexistentalias HTTP/1.1" 500 51 "-" "-"
+2024-12-30 23:40:50 [INFO]: Cache Online!
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/topic/:topic GET
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/topic/:topic GET
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/overall GET
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "POST /api/shorten HTTP/1.1" 201 92 "-" "-"
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/overall GET
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "GET /api/shorten/nonexistentalias HTTP/1.1" 500 51 "-" "-"
+2024-12-30 23:40:50 [INFO]: /analytics/:alias GET
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/:alias GET
+2024-12-30 23:40:50 [ERROR]: Record not found
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 25 "-" "-"
+2024-12-30 23:40:50 [ERROR]: No token provided
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+::ffff:127.0.0.1 - - [30/Dec/2024:18:10:50 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+2024-12-30 23:40:50 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:40:50 [ERROR]: Internal Server Error: Test Error
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "GET /api/shorten/a2lie HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "GET /api/analytics/a1osd HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [30/Dec/2024:18:17:53 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:19 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:19 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:20 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:20 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:20 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:20 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:20 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:20 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:20 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:20 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:20 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [31/Dec/2024:09:03:20 +0000] "GET /api/shorten/a2lie HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:12:24:23 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:12:24:23 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:12:24:23 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:12:24:23 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:12:24:23 +0000] "GET /api/shorten/a2lie HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:45 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:45 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:45 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:45 +0000] "GET /api/shorten/a2lie HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:47 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 263 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:47 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:47 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:47 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:47 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:47 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:47 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:08:47 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "GET /api/shorten/a2lie HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "GET /api/analytics/a1osd HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:15:40 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "GET /api/shorten/a2lie HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "GET /api/analytics/a1osd HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:18:53 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "GET /api/shorten/a2lie HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "GET /api/analytics/a1osd HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:23:32 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "GET /api/shorten/a2lie HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "GET /api/analytics/a1osd HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:42:52 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:51 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 263 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:51 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:52 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:52 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:52 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:52 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:52 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:52 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:53 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:53 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:53 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:45:53 +0000] "GET /api/shorten/a2lie HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "GET /api/shorten/a2lie HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:49:42 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:27 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 263 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:27 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:27 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:27 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:27 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:27 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:27 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:27 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:28 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:28 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:28 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:50:28 +0000] "GET /api/shorten/a2lie HTTP/1.1" 404 29 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:53 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:53 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:53 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:53 +0000] "GET /api/shorten/a2lie HTTP/1.1" 404 29 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:54 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:54 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:54 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:54 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:54 +0000] "GET /api/analytics/a1osd HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:54 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:54 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:52:54 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "GET /api/shorten/a2lie HTTP/1.1" 404 29 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:14:54:02 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:23 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 263 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:23 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:23 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:23 +0000] "GET /api/analytics/overall HTTP/1.1" 200 2 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:23 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:23 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:23 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:23 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:24 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:24 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:24 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:45:24 +0000] "GET /api/shorten/a2lie HTTP/1.1" 404 29 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 263 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 404 45 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "GET /api/analytics/overall HTTP/1.1" 404 45 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "POST /api/shorten HTTP/1.1" 403 272 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [01/Jan/2025:15:52:16 +0000] "GET /api/shorten/a2lie HTTP/1.1" 404 29 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "POST /api/shorten HTTP/1.1" 403 202 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 404 45 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "GET /api/shorten/a2lie HTTP/1.1" 404 29 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "GET /api/analytics/overall HTTP/1.1" 404 45 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "GET /api/analytics/a1osd HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:09:30 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 358 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 404 45 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "POST /api/shorten HTTP/1.1" 403 202 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "GET /api/analytics/overall HTTP/1.1" 404 45 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "GET /api/shorten/a2lie HTTP/1.1" 404 29 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:11:25 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:36 +0000] "POST /api/shorten HTTP/1.1" 403 202 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:36 +0000] "POST /api/shorten HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:36 +0000] "GET /api/shorten/testalias HTTP/1.1" 500 51 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:36 +0000] "GET /api/shorten/a2lie HTTP/1.1" 404 29 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:38 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 200 263 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:38 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 404 45 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:38 +0000] "GET /api/analytics/overall HTTP/1.1" 200 302 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:38 +0000] "GET /api/analytics/overall HTTP/1.1" 404 45 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:38 +0000] "GET /api/analytics/a1osd HTTP/1.1" 200 509 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:38 +0000] "GET /api/analytics/re34h HTTP/1.1" 404 49 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:38 +0000] "GET /api/analytics/topic/retention HTTP/1.1" 401 26 "-" "-"
+::ffff:127.0.0.1 - - [02/Jan/2025:17:12:38 +0000] "GET /api/analytics/topic/acquisition HTTP/1.1" 500 53 "-" "-"

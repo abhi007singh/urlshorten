@@ -1,0 +1,86 @@
+2024-12-29 23:08:45 [INFO]: Server Started
+2024-12-29 23:08:45 [INFO]: DB Online!
+2024-12-29 23:08:45 [INFO]: Cache Online!
+2024-12-29 23:08:54 [INFO]: DB Online!
+2024-12-29 23:08:54 [INFO]: Cache Online!
+2024-12-29 23:10:41 [INFO]: Server Started
+2024-12-29 23:10:41 [INFO]: DB Online!
+2024-12-29 23:10:41 [INFO]: Cache Online!
+2024-12-29 23:52:11 [INFO]: Server Started
+2024-12-29 23:52:11 [ERROR]: Redis Client Error:
+2024-12-29 23:52:11 [INFO]: DB Online!
+2024-12-30 00:03:18 [INFO]: Server Started
+2024-12-30 00:03:18 [ERROR]: Redis Client Error:
+2024-12-30 00:03:18 [INFO]: DB Online!
+2024-12-30 20:34:29 [INFO]: DB Online!
+2024-12-30 20:34:29 [INFO]: Cache Online!
+2024-12-30 20:47:52 [INFO]: DB Online!
+2024-12-30 20:47:52 [INFO]: Cache Online!
+2024-12-30 21:11:03 [INFO]: DB Online!
+2024-12-30 21:11:03 [INFO]: Cache Online!
+2024-12-30 21:17:25 [INFO]: DB Online!
+2024-12-30 21:17:25 [INFO]: Cache Online!
+2024-12-30 23:03:14 [INFO]: Cache Online!
+2024-12-30 23:13:58 [INFO]: Cache Online!
+2024-12-30 23:17:15 [INFO]: Cache Online!
+2024-12-30 23:23:18 [INFO]: Cache Online!
+2024-12-30 23:27:36 [INFO]: Cache Online!
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/overall GET
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/overall GET
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/:alias GET
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/:alias GET
+2024-12-30 23:27:36 [ERROR]: Record not found
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [ERROR]: No token provided
+2024-12-30 23:27:36 [INFO]: Token Verification ...
+2024-12-30 23:27:36 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:27:36 [ERROR]: Internal Server Error: Test Error
+2024-12-30 23:33:25 [INFO]: Cache Online!
+2024-12-30 23:36:19 [INFO]: Cache Online!
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/overall GET
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/overall GET
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/:alias GET
+2024-12-30 23:36:20 [ERROR]: Record not found
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/:alias GET
+2024-12-30 23:36:20 [ERROR]: Record not found
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [ERROR]: No token provided
+2024-12-30 23:36:20 [INFO]: Token Verification ...
+2024-12-30 23:36:20 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:36:20 [ERROR]: Internal Server Error: Test Error
+2024-12-30 23:39:03 [INFO]: Cache Online!
+2024-12-30 23:40:50 [INFO]: Cache Online!
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/overall GET
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/overall GET
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/:alias GET
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/:alias GET
+2024-12-30 23:40:50 [ERROR]: Record not found
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [ERROR]: No token provided
+2024-12-30 23:40:50 [INFO]: Token Verification ...
+2024-12-30 23:40:50 [INFO]: /analytics/topic/:topic GET
+2024-12-30 23:40:50 [ERROR]: Internal Server Error: Test Error
