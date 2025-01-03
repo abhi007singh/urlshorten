@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "dist/src/index.js",
   "scripts": {
-    "test:dev": "jest --config jest.config.ts",
-    "test": "tsc && jest --config jest.config.js",
+    "test:dev": "jest --runInBand --config jest.config.ts",
+    "test": "tsc && jest --runInBand --config jest.config.js",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "swagger": "node ./dist/swagger.js",
