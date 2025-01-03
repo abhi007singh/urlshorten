@@ -39,4 +39,4 @@ jobs:
             sudo docker pull sorak007/urlshorten:latest
             sudo docker stop url_shorten || true
             sudo docker rm url_shorten || true
-            sudo docker run --restart=always -d -e DATABASE_URL=${{ secrets.DB_URL }} --name url_shorten -p 8080:8080 sorak007/urlshorten:latest
+            sudo docker run --restart=always -d --name url_shorten -p 8080:8080 sorak007/urlshorten:latest
