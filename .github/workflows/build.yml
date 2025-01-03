@@ -1,6 +1,9 @@
 name: Build succeeds on PR
 
 on:
+  push:
+    branches:
+      - main
   pull_request:
     branches:
       - main
@@ -20,7 +23,16 @@ jobs:
         run: npm install
 
       - name: Run tests
-        run: npm run test
+        env:
+          MONGO_URL: ${{ secrets.MONGO_URL }}
+          JWT_SECRET: ${{ secrets.JWT_SECRET }}
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          NODE_ENV: ${{ secrets.NODE_ENV }}
+          SERVER_PORT: ${{ secrets.SERVER_PORT }}
+        run: |
+          echo "NODE_ENV is $NODE_ENV"
+          npm run test:dev
 
       - name: Run Build
         run: npm run build

@@ -13,6 +13,6 @@
       "*": ["node_modules/*"]
     }
   },
-  "include": ["./src/**/*", "./src/swagger-output.json", "jest.config.ts", "src/public"],
+  "include": ["./src/**/*", "./src/swagger-output.json", "jest.config.js", "jest.setup.ts", "src/public"],
   "exclude": ["node_modules"]
 }
