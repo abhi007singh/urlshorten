@@ -7,7 +7,7 @@ import { logger } from "./logger";
 const port = process.env.SERVER_PORT || 3000;
 
 connectToDatabase(process.env.NODE_ENV);
-connectToRedis();
+// connectToRedis();
 startCron();
 
 const signInButton =
