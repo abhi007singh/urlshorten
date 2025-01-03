@@ -12,7 +12,7 @@ import { logger } from "../logger";
 const mockUserId = new mongoose.Types.ObjectId();
 const mockToken = jwt.sign(
   { id: mockUserId.toString(), email: "email_string" },
-  process.env.JWT_SECRET
+  "temp_jwt"
 );
 
 describe("URL Shortener Routes", () => {
