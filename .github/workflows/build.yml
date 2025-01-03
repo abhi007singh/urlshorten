@@ -30,7 +30,9 @@ jobs:
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           NODE_ENV: ${{ secrets.NODE_ENV }}
           SERVER_PORT: ${{ secrets.SERVER_PORT }}
-        run: npm run test:dev
+        run: |
+          echo "NODE_ENV is $NODE_ENV"
+          npm run test:dev
 
       - name: Run Build
         run: npm run build
