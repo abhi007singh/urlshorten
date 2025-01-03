@@ -12,7 +12,7 @@ import { logger } from "../logger";
 const mockUserId = new mongoose.Types.ObjectId();
 const mockToken = jwt.sign(
   { id: mockUserId.toString(), email: "email_string" },
-  "temp_jwt_secret"
+  process.env.JWT_SECRET
 );
 
 describe("Analytics Routes", () => {
@@ -88,7 +88,7 @@ describe("Analytics Routes", () => {
       const anotherUserId = new mongoose.Types.ObjectId();
       const anotherToken = jwt.sign(
         anotherUserId.toString(),
-        "temp_jwt_secret"
+        process.env.JWT_SECRET
       );
 
       const res = await request(app)
